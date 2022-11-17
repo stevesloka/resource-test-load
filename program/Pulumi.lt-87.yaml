@@ -1,0 +1,5 @@
+config:
+  aws:region: us-east-2
+  resource-test:x: "44"
+  resource-test:y: "51"
+  resource-test:z: "44"

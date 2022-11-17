@@ -1,0 +1,3 @@
+config:
+  resource-test:y: "45"
+  resource-test:z: "73"
